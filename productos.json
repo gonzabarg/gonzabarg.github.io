@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Chevrolet Corsa",
+        "año": "2010",
+        "precio": "US$ 8.500",
+        "descripcion": "50.000 kilómetros. Patente al día."
+    },
+    {
+        "nombre": "Chevrolet Agile",
+        "año": "2016",
+        "precio": "US$ 10.500",
+        "descripcion": "75.000 kilómetros. Patente al día."
+    },
+    {
+        "nombre": "Suzuki Gran Vitara",
+        "año": "2015",
+        "precio": "US$ 30.000",
+        "descripcion": "150.000 kilómetros. Patente al día."
+    },
+    {
+        "nombre": "Nissan Note",
+        "año": "2021",
+        "precio": "US$ 28.500",
+        "descripcion": "Nuevo. Patente al día."
+    }
+]
